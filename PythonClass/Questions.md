@@ -13,4 +13,3 @@ Implement another function called `say_age` that prints out the persons age.
 Create a class `Room` with 2 attributes: a list of `Person` objects, and a string `room_name`.
 
 in this class implement a function called `introductions` that calls `say_name` on every `Person` in its list of people
-
