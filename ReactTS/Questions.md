@@ -6,4 +6,4 @@ In `App.tsx` repurpose the example app to be a counter. Make a spot where you ca
 
 ## next question
 
-in `Next/testing`, create a link to the `dashboard` page, then create a counter that increments on each click & discplay the total count
+in `Next/testing`, create a link to the `dashboard` page, then create a counter that increments on each click & display the total count
